@@ -1,0 +1,11 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: "Noto Sans", sans-serif;
+  background-color: #e0f7e9;
+}
+
+h1 {
+  color: #2e7d32;
+  text-align: center;
+}
