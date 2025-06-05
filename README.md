@@ -4,6 +4,9 @@
 Welcome to my daily coding practice repository!  
 This space is where I commit my small wins and everyday efforts to become a better developer.
 
+🌐 **Live Site:**  
+👉 [https://dailycodingpractice.netlify.app](https://dailycodingpractice.netlify.app)
+
 ## 🚀 Purpose
 
 This repository is designed to:
@@ -22,6 +25,7 @@ Each day, I aim to:
 
 - JavaScript (ES6+)
 - React
+- Netlify (for deployment)
 - VSCode
 - Git & GitHub
 
