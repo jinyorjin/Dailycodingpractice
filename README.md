@@ -1,12 +1,35 @@
-# React + Vite
+![image](https://github.com/user-attachments/assets/df0bd6c9-e587-44bc-9745-1906e235a827)
+# 🧠 Daily Coding Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my daily coding practice repository!  
+This space is where I commit my small wins and everyday efforts to become a better developer.
 
-Currently, two official plugins are available:
+## 🚀 Purpose
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This repository is designed to:
+- Improve consistency in coding
+- Practice JavaScript, React, and algorithm fundamentals
+- Track growth one commit at a time
 
-## Expanding the ESLint configuration
+## 📅 What I do
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Each day, I aim to:
+- Solve at least one coding challenge
+- Build or enhance a mini React component or JavaScript function
+- Reflect on what I learned
+
+## 🛠 Tech Stack
+
+- JavaScript (ES6+)
+- React
+- VSCode
+- Git & GitHub
+
+## 🌱 Notes
+
+Some days are harder than others — but I believe steady practice leads to real growth.  
+This repo isn’t perfect, but it’s a snapshot of my progress.
+
+---
+
+Feel free to follow along or fork the repo if you’d like to start your own daily challenge. 💪
